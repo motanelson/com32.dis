@@ -19,7 +19,7 @@ def views(tittle:str="view",text:str="hello world...\n",backgrounds:str="black",
     root=tk.Tk()
     apps=myapps(root,tittle,text,backgrounds,foregrounds)
     root.mainloop()
-import txtview
+
 
 
 
